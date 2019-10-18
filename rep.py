@@ -15,3 +15,6 @@ class rep():
             new = new.replace("\',)", "")
             l.append(new)
         return print(l)
+ 
+    def show_s(s):
+        print(s)
